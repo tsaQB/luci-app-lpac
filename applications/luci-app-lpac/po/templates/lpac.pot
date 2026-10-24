@@ -11,7 +11,7 @@ msgstr[1] ""
 msgid "%d of %d notifications completed before processing stopped."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:505
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:511
 msgid ""
 "32-character hexadecimal application identifier used to select the eUICC ISD-"
 "R applet."
@@ -23,19 +23,19 @@ msgid ""
 "it will cancel automatically."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:499
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:505
 msgid "APDU backend"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:508
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:514
 msgid "APDU debug"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:558
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:564
 msgid "AT backend"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:573
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:579
 msgid "AT debug"
 msgstr ""
 
@@ -90,7 +90,7 @@ msgid ""
 "submitted."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:345
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:351
 msgid "Applying validated configuration…"
 msgstr ""
 
@@ -216,8 +216,8 @@ msgstr ""
 msgid "Contacting the SM-DS and checking for pending download orders…"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:522
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:540
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:528
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:546
 msgid "Control device"
 msgstr ""
 
@@ -226,17 +226,17 @@ msgstr ""
 msgid "Current address"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:503
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:509
 msgid "Custom ISD-R AID"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:509
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:515
 msgid ""
 "Debug output can contain raw APDU data. Enable only for controlled "
 "troubleshooting."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:511
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:517
 msgid ""
 "Debug output can contain sensitive HTTP payloads. Enable only for controlled "
 "troubleshooting."
@@ -264,53 +264,53 @@ msgstr ""
 msgid "Deleting profile"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:570
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:576
 msgid "Detect AT ports"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:549
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:555
 msgid "Detect MBIM ports"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:533
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:539
 msgid "Detect QMI ports"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:247
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:253
 msgid "Detecting AT serial ports…"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:250
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:256
 msgid "Detecting MBIM control ports…"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:249
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:255
 msgid "Detecting QMI control ports…"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:572
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:578
 msgid ""
 "Detection combines stable links reported by lpac with strict ttyUSB, ttyACM, "
 "and wwan AT device patterns. It does not send AT commands."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:551
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:557
 msgid ""
 "Detection reads device names and kernel driver bindings without opening the "
 "modem or sending MBIM requests."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:535
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:541
 msgid ""
 "Detection reads device names and kernel driver bindings without opening the "
 "modem or sending QMI requests."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:562
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:568
 msgid "Device detection"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:296
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:302
 msgid ""
 "Device paths must be safe absolute paths below /dev without empty, . or .. "
 "components."
@@ -376,7 +376,7 @@ msgstr ""
 msgid "Download method"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:502
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:508
 msgid ""
 "Driver availability could not be confirmed, so supported backend names are "
 "offered without verification."
@@ -448,7 +448,7 @@ msgstr ""
 msgid "Free volatile memory"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:498
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:504
 msgid "General"
 msgstr ""
 
@@ -460,7 +460,7 @@ msgstr ""
 msgid "Grant access to the lpac eSIM manager"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:510
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:516
 msgid "HTTP debug"
 msgstr ""
 
@@ -521,7 +521,7 @@ msgstr ""
 msgid "Leave empty to clear the nickname"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:539
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:545
 msgid "MBIM backend"
 msgstr ""
 
@@ -548,17 +548,17 @@ msgstr ""
 msgid "No"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:197
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:203
 msgid ""
 "No AT serial ports were reported by lpac or found at supported OpenWrt "
 "device paths."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:200
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:206
 msgid "No MBIM control ports were found."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:199
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:205
 msgid "No QMI control ports were found."
 msgstr ""
 
@@ -584,7 +584,7 @@ msgid ""
 "before retrying."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:516
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:522
 msgid "No supported APDU drivers were reported by lpac."
 msgstr ""
 
@@ -640,7 +640,7 @@ msgid ""
 "Optional. When empty, lpac uses the GSMA discovery service lpa.ds.gsma.com."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:495
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:501
 msgid "Options not managed by this page are preserved when settings are saved."
 msgstr ""
 
@@ -664,8 +664,8 @@ msgstr ""
 msgid "Platform label"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:525
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:541
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:531
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:547
 msgid "Port detection"
 msgstr ""
 
@@ -822,7 +822,7 @@ msgstr ""
 msgid "Rename"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:501
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:507
 msgid "Reported drivers are offered; an unreported current value is retained."
 msgstr ""
 
@@ -830,7 +830,7 @@ msgstr ""
 msgid "Request an eUICC refresh"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:506
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:512
 msgid "Request eUICC refresh by default"
 msgstr ""
 
@@ -843,7 +843,7 @@ msgid "Requested:"
 msgstr ""
 
 #: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/profiles.js:159
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:507
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:513
 msgid ""
 "Requests a logical UICC refresh after the profile change; it does not reboot "
 "the modem. Some eUICCs require this flag, while others reject it."
@@ -898,11 +898,11 @@ msgid "SVN version"
 msgstr ""
 
 #: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/profiles.js:354
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:581
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:587
 msgid "Save"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:344
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:350
 msgid "Saving lpac settings"
 msgstr ""
 
@@ -914,11 +914,11 @@ msgstr ""
 msgid "Select a valid download method."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:472
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:478
 msgid "Select an APDU backend"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:290
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:296
 msgid "Select an APDU backend before saving."
 msgstr ""
 
@@ -950,7 +950,7 @@ msgstr[1] ""
 msgid "Sequence"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:559
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:565
 msgid "Serial device"
 msgstr ""
 
@@ -970,7 +970,7 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:553
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:559
 msgid "Skip MBIM slot mapping"
 msgstr ""
 
@@ -993,7 +993,7 @@ msgid ""
 "compatibility diagnostics, certification, and development."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:561
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:567
 msgid ""
 "The AT backend is timing-sensitive and may not support every profile "
 "operation on all modems."
@@ -1023,7 +1023,7 @@ msgstr ""
 msgid "The browser cannot prepare the QR image."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:306
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:312
 msgid "The custom ISD-R AID must contain exactly 32 hexadecimal characters."
 msgstr ""
 
@@ -1070,7 +1070,7 @@ msgid ""
 "Profiles and Notifications before continuing."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:489
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:495
 msgid ""
 "The installed lpac configuration is invalid. No settings were changed. "
 "Review every value below and save explicitly to replace the managed settings."
@@ -1116,8 +1116,8 @@ msgstr ""
 msgid "The lpac process could not be executed."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:340
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:415
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:346
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:421
 msgid "The lpac settings were saved."
 msgstr ""
 
@@ -1257,12 +1257,12 @@ msgid ""
 "retrying."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:301
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:307
 msgid ""
 "The uqmi device must be a /dev/cdc-wdmN or /dev/wwanNqmiN control device."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:493
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:499
 msgid ""
 "These values are stored in the official /etc/config/lpac file. Changes apply "
 "to the next lpac operation and do not restart any modem or network interface."
@@ -1343,15 +1343,15 @@ msgstr ""
 msgid "Updating nickname"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:552
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:558
 msgid "Use mbim-proxy"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:231
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:237
 msgid "Use selected"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:524
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:530
 msgid "Use the QMI control device associated with the eUICC."
 msgstr ""
 
@@ -1359,7 +1359,7 @@ msgstr ""
 msgid "Use the default address stored on the eUICC"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:555
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:561
 msgid ""
 "Use the modem's currently selected slot instead of querying or changing MBIM "
 "Device Slot Mapping. Enable only when the modem cannot use normal slot "
@@ -1476,8 +1476,8 @@ msgstr ""
 msgid "lpac returned an invalid or unexpected response."
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:439
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:486
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:445
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:492
 msgid "lpac settings"
 msgstr ""
 
@@ -1485,10 +1485,10 @@ msgstr ""
 msgid "lpac version"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:521
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:527
 msgid "uqmi backend"
 msgstr ""
 
-#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:536
+#: applications/luci-app-lpac/htdocs/luci-static/resources/view/lpac/settings.js:542
 msgid "uqmi debug"
 msgstr ""
